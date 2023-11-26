@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951328542563",
+    "project_id": "egitim-b21f5",
+    "storage_bucket": "egitim-b21f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951328542563:android:832a58d55f7242fa730d56",
+        "android_client_info": {
+          "package_name": "com.example.blockisilerss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbMcaSpj3noO4ZcPiusinqKabXWoSx_cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
